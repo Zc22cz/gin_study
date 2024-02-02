@@ -1,0 +1,5 @@
+time="2024-02-02T14:16:58+08:00" level=error msg="你好"
+time="2024-02-02T14:16:58+08:00" level=error msg=err
+time="2024-02-02T14:16:58+08:00" level=warning msg=warn
+time="2024-02-02T14:16:58+08:00" level=info msg=info
+time="2024-02-02T14:16:58+08:00" level=info msg=print
